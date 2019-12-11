@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using AdventOfCode1Trampolines;
 
-namespace AdventOfCode1
+namespace AdventOfCode12Trampolines
 {
+    /// <summary>
+    /// Day1 Puzzle2
+    /// Author: Mattias
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

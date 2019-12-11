@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace AdventOfCode1Trampolines
+namespace AdventOfCode12Trampolines
 {
-    
+    /// <summary>
+    /// Source: https://volgarev.me/2013/09/27/tail-recursion-and-trampolining-in-csharp.html
+    /// </summary>
     public static class Trampoline
     {
         public static TResult Start<T1, T2, TResult>(Func<T1, T2, Bounce<T1, T2, TResult>> action,

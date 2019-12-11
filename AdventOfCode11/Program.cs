@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace AdventOfCode1
+namespace AdventOfCode11
 {
+    /// <summary>
+    /// Day1 Puzzle1
+    /// Author: Mattias
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

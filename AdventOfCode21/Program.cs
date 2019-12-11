@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Reflection.Emit;
 
-namespace AdventOfCode2
+namespace AdventOfCode21
 {
+    /// <summary>
+    /// Day2 Puzzle1
+    /// Author: Kevin
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
