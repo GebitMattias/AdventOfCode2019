@@ -7,6 +7,10 @@ using System.Reflection.Emit;
 
 namespace AdventOfCode2
 {
+    /// <summary>
+    /// Day2 Puzzle1
+    /// Author: Kevin
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

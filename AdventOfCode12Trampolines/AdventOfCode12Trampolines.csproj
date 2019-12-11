@@ -3,8 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <AssemblyName>AdventOfCode1.2Trampolines</AssemblyName>
-    <RootNamespace>AdventOfCode1Trampolines</RootNamespace>
+    <AssemblyName>AdventOfCode12Trampolines</AssemblyName>
+    <RootNamespace>AdventOfCode12Trampolines</RootNamespace>
   </PropertyGroup>
 
 </Project>

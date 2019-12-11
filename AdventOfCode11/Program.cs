@@ -5,6 +5,10 @@ using System.Linq;
 
 namespace AdventOfCode1
 {
+    /// <summary>
+    /// Day1 Puzzle1
+    /// Author: Mattias
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

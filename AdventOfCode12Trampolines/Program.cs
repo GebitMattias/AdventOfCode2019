@@ -6,6 +6,10 @@ using AdventOfCode1Trampolines;
 
 namespace AdventOfCode1
 {
+    /// <summary>
+    /// Day1 Puzzle2
+    /// Author: Mattias
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
